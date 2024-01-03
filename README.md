@@ -1,4 +1,5 @@
 ####################################################################################################################################################################################################
+
 Introduction
 The goal of the VC Shuttle system is to improve college students' transportation experiences by offering an easy-to-use booking and optimization platform.
 The goal, scope, architecture, and salient characteristics of the system are described in this document. Students can attend classes on time by using the VC Shuttle web application to make their commute to and from campus more efficient. 
@@ -40,5 +41,6 @@ Design and implementation of a robust user-friendly and responsive UI for deskto
  
 Backend Integration:
 Integration with the backend server that stores and retrieves user data.
+
 
 ####################################################################################################################################################################################################
